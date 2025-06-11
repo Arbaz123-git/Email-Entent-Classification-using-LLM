@@ -46,7 +46,7 @@ Remember:
 
 """
 
-# few-shot examples 
+# few-shot learning with examples 
 FEW_SHOT_EXAMPLES = """ 
 
 Here are examples of properly classified emails:
